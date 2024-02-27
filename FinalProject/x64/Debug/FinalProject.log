@@ -1,0 +1,3 @@
+﻿  Combat.cpp
+C:\Users\Pixie\Documents\UAT\CSC215 - C++ Programming 1\FinalProject\Combat.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FinalProject.vcxproj -> C:\Users\Pixie\Documents\UAT\CSC215 - C++ Programming 1\FinalProject\x64\Debug\FinalProject.exe
